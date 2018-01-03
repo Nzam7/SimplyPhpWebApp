@@ -1,3 +1,3 @@
 # SimplyPhpWebApp
 
-Php Web App using multi dimensional arryas to store data
+Php Web App using multi dimensional arrays to store data
